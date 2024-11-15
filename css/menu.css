@@ -37,7 +37,7 @@
   
   /* Control the image size */
   .navbar-logo-wrapper img {
-    max-height: 70px;         /* Set a maximum height for the logo */
+    max-height: 65px;         /* Set a maximum height for the logo */
     width: auto;              /* Maintain aspect ratio */
     object-fit: contain;      /* Ensure the logo fits nicely within its container */
   }
